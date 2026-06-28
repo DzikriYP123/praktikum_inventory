@@ -38,7 +38,8 @@ TAMPILAN WEBSITE INVENTORY:
     GAMBAR 1.2 REGISTRASI
 
 
-<img width="981" height="474" alt="gambar" src="https://github.com/user-attachments/assets/afa2822d-cdde-4941-8364-1063e48dfdcf" />
+<img width="981" height="462" alt="gambar" src="https://github.com/user-attachments/assets/f22aa9e3-398e-4491-8e08-7a094de15b88" />
+
 
     GAMBAR 1.3 TAMPILAN ADMIN DASHBOARD
 
