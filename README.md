@@ -20,6 +20,12 @@ MISI :
 5.	Membangun hubungan kerja sama yang berkelanjutan dengan pemasok, pelanggan, dan mitra bisnis. 
 6.	Menerapkan prinsip efisiensi, inovasi, dan perbaikan berkelanjutan dalam setiap proses operasional perusahaan..  
 
+KENAPA HARUS ADA WEBSITE SISTEM INVENTORY?
+
+Website Inventory System dibuat untuk meningkatkan efektivitas dan efisiensi dalam pengelolaan persediaan barang di perusahaan. Pada banyak perusahaan, pencatatan stok masih dilakukan secara manual menggunakan buku atau spreadsheet, sehingga rentan terhadap kesalahan pencatatan, kehilangan data, serta membutuhkan waktu yang lebih lama dalam proses pencarian dan pembaruan informasi.
+Dengan adanya Website Inventory System, seluruh data persediaan dapat dikelola secara terpusat dan diakses secara real-time melalui jaringan internet maupun intranet perusahaan. Sistem ini memungkinkan pengguna untuk memantau jumlah stok, mencatat barang masuk dan barang keluar, serta mengetahui kondisi persediaan secara cepat dan akurat
+
+
 LOGO PERUSAHAAN:
 
 <img width="449" height="275" alt="gambar" src="https://github.com/user-attachments/assets/ae3f441c-6c1e-4f3b-b019-a757d6d6f26f" />
